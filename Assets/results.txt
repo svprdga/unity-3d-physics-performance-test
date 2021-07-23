@@ -1,0 +1,13 @@
+* Below 30 FPS clearly
+
+Linux
+=====
+
+Editor: 3500 cubes
+Build: 6700 cubes
+
+Windows
+=======
+
+Editor:
+Build:
